@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "electron": "^8.0.2",
+    "electron": "^15.5.5",
     "pnp-webpack-plugin": "^1.6.4",
     "serialport": "^8.0.7",
     "webpack": "^4.42.0",
